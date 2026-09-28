@@ -1,0 +1,24 @@
+# ClutchControl-reWASD
+# Firmware build output
+firmware/*.bin
+firmware/*.elf
+firmware/*.map
+
+# Arduino IDE
+*.ino.ino
+*.ino.elf
+*.ino.bin
+*.ino.map
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
